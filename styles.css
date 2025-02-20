@@ -16,7 +16,7 @@ body {
 /* First Section (Custom Background Image) */
 #section1 {
     height: 100vh;
-    background: url('https://cdn.discordapp.com/attachments/1341391373068271647/1341402962404315197/f49cc3d702c6a3c29c39f1e849c8b2a9.jpg?ex=67b5de5c&is=67b48cdc&hm=746119ce7ff24e44e3156bf7e0fa9e834682435839ca1f838fb22947b9c8b9b8&') no-repeat center center/cover;
+    background: url('https://raw.githubusercontent.com/cinoxdz/main/main/images/background.jpg') no-repeat center center/cover;
     background-size: cover;
     background-position: center;
     display: flex;
